@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "265052940136",
+    "project_id": "gezi-rehberim-a95f1",
+    "storage_bucket": "gezi-rehberim-a95f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265052940136:android:bce6283b1826aaba6698dd",
+        "android_client_info": {
+          "package_name": "com.example.gezi_rehberim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265052940136-u7qs1b0befpi4fv87aci48hqhengsqtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gezi_rehberim",
+            "certificate_hash": "bd748ba246af1effd9a865cc8e44f4cf1f493c94"
+          }
+        },
+        {
+          "client_id": "265052940136-vatf3s905a9qr7elmm9pl9i2phvfej5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHercT03EqgCPqwPqHg9wAywgzYhWerNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265052940136-vatf3s905a9qr7elmm9pl9i2phvfej5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
